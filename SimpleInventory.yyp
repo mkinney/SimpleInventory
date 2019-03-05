@@ -77,6 +77,25 @@
             }
         },
         {
+            "Key": "164f5381-100c-47e6-bc3d-482784a0c014",
+            "Value": {
+                "id": "ca1fa4d4-6cf4-4f4f-84ca-80c575c58c61",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oMenu\/oMenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1b95fee1-3410-47d4-ae8a-a5dbee1d3e92",
             "Value": {
                 "id": "3e2969a2-419b-41ac-b356-78928ccfdcb5",
@@ -131,6 +150,25 @@
                 ],
                 "resourcePath": "sprites\/sApple\/sApple.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "40eb9c80-774e-469a-a0bc-6e20ae4cce8b",
+            "Value": {
+                "id": "c0d878b4-5fb7-475e-a07f-02645c708ad4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oButton\/oButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -245,6 +283,25 @@
                 ],
                 "resourcePath": "views\/63898c0b-1ae0-451a-a686-b4703ab2dfcc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "66b2c07c-07b9-4b80-9f64-7215b0a08aac",
+            "Value": {
+                "id": "d25e796c-9e88-4644-8434-432d6894760e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sButton\/sButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

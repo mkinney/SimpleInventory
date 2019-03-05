@@ -38,6 +38,9 @@ if (yy != 0) {
 }
 
 // when you left click mouse, create a new object
-if (mouse_check_button_pressed(mb_left)){
-	instance_create_layer(mouse_x, mouse_y, "Instances", oItem);
+if (mouse_check_button_pressed(mb_left)) {
+	// as long as the menu is not active
+	if (! oMenu.active) {
+		instance_create_layer(mouse_x, mouse_y, "Instances", oItem);
+	}
 }
